@@ -13,4 +13,4 @@ logfile
 
 Aufzählung
 * punkt1
-** unterpunkt
+  * unterpunkt
