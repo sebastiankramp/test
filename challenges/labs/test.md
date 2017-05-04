@@ -10,7 +10,3 @@ Logfile hier
 ```
 logfile
 ```
-
-Aufzählung
-* punkt1
-** unterpunkt
