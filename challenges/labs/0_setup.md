@@ -7,3 +7,6 @@ text
 ---
 
 Logfile hier
+```
+logfile
+```
